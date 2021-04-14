@@ -16,17 +16,4 @@ Activity
 ![image](https://user-images.githubusercontent.com/72931279/112074353-7dd7c480-8b4c-11eb-9435-d40d811c2c89.png)
 ---------------------------------------------------------------------------------------------------------------
 
-```css
-.theme-dark .headerNormal-T_seeN {
-    background: url(https://cdn.discordapp.com/attachments/821562888275755008/823711872808124416/542746.jpg); /* INSERT YOUR BACKGROUND IMAGE HERE, HAS TO BE A DIRECT LINK AND MUST END IN .png, .jpg, .gif (not recommended) AND OTHER FILE TYPES. */
-    background-size: cover;
-}
-.topSectionNormal-2-vo2m {
-    background: url(https://cdn.discordapp.com/attachments/821562888275755008/823711872808124416/542746.jpg); /* INSERT YOUR BACKGROUND IMAGE HERE, HAS TO BE A DIRECT LINK AND MUST END IN .png, .jpg, .gif (not recommended) AND OTHER FILE TYPES. */
-    background-size: cover;
-}
-.headerPlaying-j0WQBV {
-    background: url(https://cdn.discordapp.com/attachments/821562888275755008/823711872808124416/542746.jpg); /* INSERT YOUR BACKGROUND IMAGE HERE, HAS TO BE A DIRECT LINK AND MUST END IN .png, .jpg, .gif (not recommended) AND OTHER FILE TYPES. */
-    background-size: cover;
-}
-```
+- This snippet has been discontinued and will no longer be updated, there is a better version of this focused on Discord's `Game Activity` feature called [Custom User Activity Backgrounds](https://github.com/ryuunodev/custom-user-activity-backgrounds) (pretty much a USRBG copy but for customizing your game activity background instead of changing and customizing the entire user popout and profile background.)
