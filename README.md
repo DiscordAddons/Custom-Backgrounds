@@ -1,4 +1,4 @@
-# Custom Backgrounds
+# Background Customizer
 Changes Discord's standard background to a custom background image.
 
 User Popout
